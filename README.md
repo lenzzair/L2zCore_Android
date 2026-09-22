@@ -1,9 +1,8 @@
-# README : Application mobile de Supervision de Serveurs ( Saé Développer des applications communicantes )
+# Application mobile de Supervision de Serveurs ( Saé Développer des applications communicantes )
 
 ## Auteur
 
-- **Nom** : Lambert
-- **Prénom** : Lenny
+lenzzair
 
 ---
 ## Version
